@@ -20,7 +20,7 @@ import subprocess
 
 # Config default values
 SENSOR_NAME = "Enclosure Temp"
-SENSOR_CMD = "python3 enclosure-sensor-v2.py"
+SENSOR_CMD = "python3 ~/enclosure-sensor-v2.py"
 OUTPUT_PRECISION = 1 #Output precision in digits
 UPDATE_PERIOD = 5 #Seconds
 
